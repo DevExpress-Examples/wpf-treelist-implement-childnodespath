@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ChildNodesPathDemo/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ChildNodesPathDemo/MainWindow.xaml))
+* [ViewModel.cs](./CS/ChildNodesPathDemo/ViewModel.cs) (VB: [ViewModel.vb](./VB/ChildNodesPathDemo/ViewModel.vb))
+<!-- default file list end -->
 # How to: Implement ChildNodesPath
 
 
