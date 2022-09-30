@@ -6,7 +6,7 @@
 
 # WPF Tree List - Implement the Child Nodes Path
 
-This example uses the **Child Nodes Path** to bind the [TreeListView](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView) to a collection which objects have the same field that contains child items.
+This example uses the **Child Nodes Path** to bind the [TreeListView](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView) to a collection whose objects have the same field that contains child items.
 
 1. Set the [TreeListView.ChildNodesPath](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView.ChildNodesPath) property to the children field name (**Tasks** in this example).
 2. Set the [TreeListView.TreeDerivationMode](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.TreeListView.TreeDerivationMode) property to `ChildNodesSelector`.
