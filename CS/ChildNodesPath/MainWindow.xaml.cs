@@ -1,13 +1,9 @@
 ﻿using System.Windows;
 
-namespace ChildNodesPathDemo {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+namespace ChildNodesPath {
     public partial class MainWindow : Window {
         public MainWindow() {
             InitializeComponent();
         }
     }
-
 }

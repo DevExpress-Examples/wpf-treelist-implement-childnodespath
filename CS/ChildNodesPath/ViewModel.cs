@@ -1,9 +1,8 @@
 ﻿using System.Collections.ObjectModel;
 
-namespace ChildNodesPathDemo {
+namespace ChildNodesPath {
 
-    public class BaseObject
-    {
+    public class BaseObject {
         public string Name { get; set; }
         public string Executor { get; set; }
         public ObservableCollection<Task> Tasks { get; set; }
@@ -12,8 +11,7 @@ namespace ChildNodesPathDemo {
 
     public class ProjectObject : BaseObject { }
 
-    public class Task : BaseObject
-    {
+    public class Task : BaseObject {
         public string State { get; set; }
     }
 
