@@ -31,7 +31,7 @@ This example uses the **Child Nodes Path** to bind the [TreeListView](https://do
 * [WPF Tree List - Use the Child Nodes Selector to Create a Hierarchical Data Structure](https://github.com/DevExpress-Examples/how-to-implement-hierarchical-data-binding-via-child-nodes-selector-e3298)
 * [WPF Tree List - Use the Hierarchical Data Template to Build a Tree](https://github.com/DevExpress-Examples/how-to-build-a-tree-via-hierarchicaldatatemplate-e3410)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-treelist-implement-childnodespath&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-treelist-implement-childnodespath&~~~was_helpful=no)
 
